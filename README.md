@@ -1,77 +1,39 @@
-<p align="center">
-
 # Hello, World! 👋
+
+<p align="center">
+  <img src="https://mc-heads.net/body/BibssManzi" height="180">
 </p>
 
 ## About Me
 
-<table align="center">
-<tr>
+- 💻 First-semester Computer Science student
+- 🧠 Interested in areas like digital forensics and game development
+- 🔍 Always curious about how systems work behind the scenes
 
-<td>
+## Languages
 
-💻 First-semester Computer Science student
-
-
-
-🧠 Interested in areas like digital forensics and game development
-
-
-🔍 Always curious about how systems work behind the scenes
-
-</td>
-
-<td width="180" align="center">
-
-<img src="https://mc-heads.net/body/BibssManzi" height="180">
-
-</td>
-
-</tr>
-</table>
-<h3>Languages</h3>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-
-<h3>Tools</h3>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
-<img src="https://img.shields.io/badge/Bitsy-Game_Dev-blueviolet?style=for-the-badge">
-
-
-<br>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 </p>
 
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/carlosvinicius0293-droid/carlosvinicius0293-droid/pacman-output/dist/pacman-contribution-graph-dark.svg">
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/carlosvinicius0293-droid/carlosvinicius0293-droid/pacman-output/dist/pacman-contribution-graph.svg">
-    <img
-      alt="Pacman contribution graph"
-      src="https://raw.githubusercontent.com/carlosvinicius0293-droid/carlosvinicius0293-droid/pacman-output/dist/pacman-contribution-graph-dark.svg">
-  </picture>
-</div>
+## Tools
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/Bitsy-Game_Dev-blueviolet?style=for-the-badge">
+</p>
 
-<div align="center">
+---
 
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-manzi/)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielamanzicorreia@email.com)
-
----
-</div>
