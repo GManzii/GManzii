@@ -1,5 +1,47 @@
+<div align="center">
+
 # Hello, World! 👋
-  <img src="https://mc-heads.net/avatar/BibssManzi" width="120">           <div align="center">
+
+</div>
+<p align="center">
+  <img src="https://mc-heads.net/avatar/BibssManzi" width="120">
+</p>
+
+
+## About Me
+<p align="center">
+  💻 First-semester Computer Science student
+</p>
+<p align="center">
+  🧠 Interested in areas like digital forense and game development                                                
+</p>
+<p align="center">
+  🔍 Always curious about how systems work behind the scenes
+</p>
+<h2 align="center">⚒️ Tech Stack</h2>
+<div align="center">
+<h3>Languages</h3>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+
+<h3>Tools</h3>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+<img src="https://img.shields.io/badge/Bitsy-Game_Dev-blueviolet?style=for-the-badge">
+
+
+<br>
+
+</div>
+
+<div align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -12,35 +54,6 @@
       src="https://raw.githubusercontent.com/carlosvinicius0293-droid/carlosvinicius0293-droid/pacman-output/dist/pacman-contribution-graph-dark.svg">
   </picture>
 </div>
-  
-
-## About me
-
-I'm Gabriela Manzi (or just Manzi), a Computer Science student currently in my first semester.
-
-I'm interested in technology, programming, and problem solving, and I enjoy exploring different tools and areas of computing while building my foundation as a developer.
-
----
-
-## Technologies
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
-![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Bitsy](https://img.shields.io/badge/Bitsy-Game%20Development-blueviolet?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
----
 
 ---
 
