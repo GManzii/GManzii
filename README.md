@@ -31,7 +31,9 @@ I'm interested in technology, programming, and problem solving, and I enjoy expl
 
 ---
 
-![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GManzii/GManzii/output/pacman-contribution-graph.svg">
+</p>
 
 ---
 
