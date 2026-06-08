@@ -1,25 +1,34 @@
-<div align="center">
+<p align="center">
 
 # Hello, World! 👋
-
-</div>
-<p align="center">
-  <img src="https://mc-heads.net/avatar/BibssManzi" width="120">
 </p>
-
 
 ## About Me
-<p align="center">
-  💻 First-semester Computer Science student
-</p>
-<p align="center">
-  🧠 Interested in areas like digital forense and game development                                                
-</p>
-<p align="center">
-  🔍 Always curious about how systems work behind the scenes
-</p>
-<h2 align="center">⚒️ Tech Stack</h2>
-<div align="center">
+
+<table align="center">
+<tr>
+
+<td>
+
+💻 First-semester Computer Science student
+
+
+
+🧠 Interested in areas like digital forensics and game development
+
+
+🔍 Always curious about how systems work behind the scenes
+
+</td>
+
+<td width="180" align="center">
+
+<img src="https://mc-heads.net/body/BibssManzi" height="180">
+
+</td>
+
+</tr>
+</table>
 <h3>Languages</h3>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -39,7 +48,7 @@
 
 <br>
 
-</div>
+</p>
 
 <div align="center">
   <picture>
@@ -55,7 +64,8 @@
   </picture>
 </div>
 
----
+
+<div align="center">
 
 ## Contact
 
@@ -64,3 +74,4 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielamanzicorreia@email.com)
 
 ---
+</div>
