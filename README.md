@@ -30,6 +30,8 @@ I'm interested in technology, programming, and problem solving, and I enjoy expl
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
+
 ---
 
 ## Contact
