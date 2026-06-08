@@ -1,7 +1,18 @@
 # Hello, World! 👋
-<p align="center">
-  <img src="https://mc-heads.net/avatar/BibssManzi" width="120">
-</p>
+  <img src="https://mc-heads.net/avatar/BibssManzi" width="120">           <div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/carlosvinicius0293-droid/carlosvinicius0293-droid/pacman-output/dist/pacman-contribution-graph-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/carlosvinicius0293-droid/carlosvinicius0293-droid/pacman-output/dist/pacman-contribution-graph.svg">
+    <img
+      alt="Pacman contribution graph"
+      src="https://raw.githubusercontent.com/carlosvinicius0293-droid/carlosvinicius0293-droid/pacman-output/dist/pacman-contribution-graph-dark.svg">
+  </picture>
+</div>
+  
 
 ## About me
 
@@ -30,19 +41,6 @@ I'm interested in technology, programming, and problem solving, and I enjoy expl
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
-<div align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/carlosvinicius0293-droid/carlosvinicius0293-droid/pacman-output/dist/pacman-contribution-graph-dark.svg">
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/carlosvinicius0293-droid/carlosvinicius0293-droid/pacman-output/dist/pacman-contribution-graph.svg">
-    <img
-      alt="Pacman contribution graph"
-      src="https://raw.githubusercontent.com/carlosvinicius0293-droid/carlosvinicius0293-droid/pacman-output/dist/pacman-contribution-graph-dark.svg">
-  </picture>
-</div>
 
 ---
 
