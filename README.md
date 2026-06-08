@@ -1,14 +1,25 @@
-# Hello, World! 👋
-
-<p align="center">
-  <img src="https://mc-heads.net/body/BibssManzi" height="180">
-</p>
+<h1 align="center"> Gabriela Manzi </h1>
 
 ## About Me
 
-- 💻 First-semester Computer Science student
-- 🧠 Interested in areas like digital forensics and game development
-- 🔍 Always curious about how systems work behind the scenes
+<table>
+<tr>
+<td>
+
+💻 First-semester Computer Science student
+
+🔍 Always curious about how systems work behind the scenes
+
+🧠 Interested in areas like digital forensics and game development
+
+</td>
+
+<td align="right">
+<img src="https://mc-heads.net/head/BibssManzi" height="70">
+</td>
+
+</tr>
+</table>
 
 ## Languages
 
@@ -31,9 +42,19 @@
 </p>
 
 ---
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/carlosvinicius0293-droid/carlosvinicius0293-droid/pacman-output/dist/pacman-contribution-graph-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/carlosvinicius0293-droid/carlosvinicius0293-droid/pacman-output/dist/pacman-contribution-graph.svg">
+    <img
+      alt="Pacman contribution graph"
+      src="https://raw.githubusercontent.com/carlosvinicius0293-droid/carlosvinicius0293-droid/pacman-output/dist/pacman-contribution-graph-dark.svg">
+  </picture>
+</div>
 
 ## Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-manzi/)
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielamanzicorreia@email.com)
+<p align="center"> <a href="https://www.linkedin.com/in/gabriela-manzi/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a> <a href="mailto:gabrielamanzicorreia@email.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a> </p>
