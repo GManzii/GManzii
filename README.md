@@ -30,11 +30,6 @@ I'm interested in technology, programming, and problem solving, and I enjoy expl
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GManzii/GManzii/output/pacman-contribution-graph.svg">
-</p>
-
 ---
 
 ## Contact
